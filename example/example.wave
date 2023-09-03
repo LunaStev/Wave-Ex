@@ -1,0 +1,9 @@
+fun hello(name :String) {
+    print("{}", name);
+}
+
+fun main() {
+    count a = 1;
+    print("{a}");
+    hello("LunaStev")
+}
