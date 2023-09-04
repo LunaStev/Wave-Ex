@@ -14,7 +14,7 @@ fun hello(name :str) {
 }
 
 fun main() {
-  var a = "LunaStev";
+  var a :str = "LunaStev";
   count b = 10;
   print("Hello, World! {a} {b}");
   hello("LunaStev");
