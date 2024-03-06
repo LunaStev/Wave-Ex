@@ -4,7 +4,7 @@
  - ⚠️이 코드는 이론상의 코드이다⚠️
 */
 
-fun tool(a::i32, b::i32) {
+fun tool(a :String, b :str) {
     var a :str = ("IBM");
     count b = 10;
 
